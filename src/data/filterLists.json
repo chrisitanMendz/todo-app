@@ -1,0 +1,14 @@
+[
+  {
+    "name": "All",
+    "status": false
+  },
+  {
+    "name": "Active",
+    "status": false
+  },
+  {
+    "name": "Completed",
+    "status": true
+  }
+]
